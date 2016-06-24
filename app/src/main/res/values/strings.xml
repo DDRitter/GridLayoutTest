@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridLayout Test</string>
+    <string name="greeting_message">¡Bien Hecho!</string>
+</resources>
