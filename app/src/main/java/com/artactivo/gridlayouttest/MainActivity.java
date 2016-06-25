@@ -2,6 +2,7 @@ package com.artactivo.gridlayouttest;
 
 import android.content.Context;
 import android.content.res.Resources;
+import android.support.v7.app.ActionBar.LayoutParams;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -15,8 +16,6 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import static android.support.v7.app.ActionBar.*;
 
 public class MainActivity extends AppCompatActivity implements OnTouchListener {
 
